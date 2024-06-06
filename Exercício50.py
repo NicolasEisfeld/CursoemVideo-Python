@@ -6,4 +6,3 @@ for c in range(1, 7):
         soma += num
         cont += 1
 print('Você informou {} números PARES e a soma foi {}'.format(cont, soma))
-1
